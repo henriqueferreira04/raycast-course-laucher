@@ -478,6 +478,20 @@ export default function ManageCourses({ onCoursesChanged }: ManageCoursesProps) 
                       onAction={() => push(<CourseForm onSave={handleSave} />)}
                     />
                   </ActionPanel.Section>
+                  <ActionPanel.Section title="Backup">
+                    <Action
+                      title="Export Courses"
+                      icon={Icon.Upload}
+                      shortcut={{ modifiers: ["cmd", "shift"], key: "e" }}
+                      onAction={handleExport}
+                    />
+                    <Action
+                      title="Import Courses"
+                      icon={Icon.Download}
+                      shortcut={{ modifiers: ["cmd", "shift"], key: "i" }}
+                      onAction={() => push(<ImportCoursesForm onImport={handleImport} />)}
+                    />
+                  </ActionPanel.Section>
                   <ActionPanel.Section>
                     <Action
                       title="Remove Course"
