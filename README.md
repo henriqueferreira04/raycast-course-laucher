@@ -1,0 +1,1 @@
+# course-laucher-raycast-extension
