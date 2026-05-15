@@ -207,7 +207,7 @@ export default function OpenCourse() {
                   <Action
                     title="Open Terminal"
                     icon={Icon.Terminal}
-                    shortcut={{ modifiers: ["cmd", "shift"], key: "t" }}
+                    shortcut={{ modifiers: ["cmd"], key: "t" }}
                     onAction={async () => {
                       const warpEntries = course.apps.filter((a) => a.type === "warp");
                       if (warpEntries.length === 1) {
@@ -221,7 +221,7 @@ export default function OpenCourse() {
                   <Action
                     title="Open VS Code"
                     icon={Icon.Code}
-                    shortcut={{ modifiers: ["cmd", "shift"], key: "v" }}
+                    shortcut={{ modifiers: ["cmd"], key: "c" }}
                     onAction={async () => {
                       const entry = course.apps.find((a) => a.type === "vscode");
                       if (entry) {
@@ -233,7 +233,7 @@ export default function OpenCourse() {
                   <Action
                     title="Open GitHub"
                     icon={Icon.Link}
-                    shortcut={{ modifiers: ["cmd", "shift"], key: "g" }}
+                    shortcut={{ modifiers: ["cmd"], key: "g" }}
                     onAction={async () => {
                       const entry = course.apps.find((a) => a.type === "github");
                       if (entry) {

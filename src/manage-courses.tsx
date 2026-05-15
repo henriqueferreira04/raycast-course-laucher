@@ -183,18 +183,19 @@ function CourseForm({
             <Action
               title="Add Warp Tab"
               icon="🖥️"
+              shortcut={{ modifiers: ["cmd"], key: "t" }}
               onAction={() => addApp("warp")}
             />
             <Action
               title="Add VS Code Workspace"
               icon="💻"
-              shortcut={{ modifiers: ["cmd"], key: "n" }}
+              shortcut={{ modifiers: ["cmd"], key: "c" }}
               onAction={() => addApp("vscode")}
             />
             <Action
               title="Add GitHub Link"
               icon="🐙"
-              shortcut={{ modifiers: ["cmd", "shift"], key: "g" }}
+              shortcut={{ modifiers: ["cmd"], key: "g" }}
               onAction={() => addApp("github")}
             />
           </ActionPanel.Section>

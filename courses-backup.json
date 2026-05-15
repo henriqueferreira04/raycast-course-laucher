@@ -1,0 +1,147 @@
+[
+  {
+    "id": "pioey6gr",
+    "name": "CLE",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "qd2fkit1",
+        "type": "vscode",
+        "path": "~/Desktop/2S/CLE/cle-3rdproject-cuda"
+      },
+      {
+        "id": "shbf3735",
+        "type": "warp",
+        "path": "~/Desktop/2S/CLE/cle-3rdproject-cuda"
+      },
+      {
+        "id": "x0oibsgp",
+        "type": "github",
+        "path": "https://github.com/henriqueferreira04/cle-3rdproject-cuda"
+      }
+    ],
+    "createdAt": 1778872591621
+  },
+  {
+    "id": "6jf246kn",
+    "name": "Bolsa",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "4m9wn8xi",
+        "type": "vscode",
+        "path": "~/Desktop/MedGov-AI-MCP/"
+      },
+      {
+        "id": "veignz9j",
+        "type": "warp",
+        "path": "Desktop/MedGov-AI-MCP/frontend",
+        "label": "frontend"
+      },
+      {
+        "id": "8quiru6h",
+        "type": "warp",
+        "path": "Desktop/MedGov-AI-MCP/orchestrator",
+        "label": "orchestrator"
+      },
+      {
+        "id": "54gne4vz",
+        "type": "github",
+        "path": "https://github.com/BMDSoftware/MedGov-AI-MCP"
+      }
+    ],
+    "createdAt": 1778872707885
+  },
+  {
+    "id": "heiq7vjp",
+    "name": "AS",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "me5pkl0b",
+        "type": "vscode",
+        "path": "~/Desktop/2S/AS/Projects/final/nopCommerce/"
+      },
+      {
+        "id": "82ugwtbd",
+        "type": "warp",
+        "path": "~/Desktop/2S/AS/Projects/final/nopCommerce/"
+      },
+      {
+        "id": "8eq9ty12",
+        "type": "github",
+        "path": "https://github.com/AS-Group-Final-Project/nopCommerce"
+      }
+    ],
+    "createdAt": 1778872853499
+  },
+  {
+    "id": "7ib5lp34",
+    "name": "SD",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "nq70sndh",
+        "type": "vscode",
+        "path": "~/Desktop/2S/SD/2526-tp2-group02/"
+      },
+      {
+        "id": "c6y6s88f",
+        "type": "warp",
+        "path": "~/Desktop/2S/SD/2526-tp2-group02/"
+      },
+      {
+        "id": "2lnrhnlv",
+        "type": "github",
+        "path": "https://github.com/ua-sd/2526-tp2-group02"
+      }
+    ],
+    "createdAt": 1778872954022
+  },
+  {
+    "id": "8frwbw64",
+    "name": "ED",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "36tplkyp",
+        "type": "vscode",
+        "path": "~/Desktop/2S/ED/assignment-2-pair-work-ed2026_g06/"
+      },
+      {
+        "id": "6aahqtjx",
+        "type": "warp",
+        "path": "~/Desktop/2S/ED/assignment-2-pair-work-ed2026_g06/"
+      },
+      {
+        "id": "u80g7v3h",
+        "type": "github",
+        "path": "https://github.com/detiuaveiro/assignment-2-pair-work-ed2026_g06"
+      }
+    ],
+    "createdAt": 1778873011078
+  },
+  {
+    "id": "8hg8x93s",
+    "name": "GIC",
+    "emoji": "📚",
+    "apps": [
+      {
+        "id": "zsomisb0",
+        "type": "vscode",
+        "path": "~/Desktop/2S/GIC/sre-project-grupo-vintage-sound/"
+      },
+      {
+        "id": "5tds8tfp",
+        "type": "warp",
+        "path": "~/Desktop/2S/GIC/sre-project-grupo-vintage-sound/"
+      },
+      {
+        "id": "d58m200c",
+        "type": "github",
+        "path": "https://github.com/detiuaveiro/sre-project-grupo-vintage-sound"
+      }
+    ],
+    "createdAt": 1778873103782
+  }
+]
